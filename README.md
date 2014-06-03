@@ -1,4 +1,4 @@
 Dungeons-and-dragons
 ====================
 
-Dungeons and dragons - text based game python game
+Is a text based game built in python by me. It was just a simple test of my new skills. 
