@@ -25,7 +25,7 @@ class Player:
 		os.system("clear")
 		print "***********************************************************"
 		print "*                                                         *"
-		print "*      Welcome, %s to the dragons and dungeons game!     *" % self.name
+		print "*      Welcome, %s to the dungeons and dragons  game!     *" % self.name
 		print "*                                                         *"
 		print "***********************************************************"
 		print
